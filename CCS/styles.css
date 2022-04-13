@@ -55,7 +55,7 @@ img:hover{
 }
 li:hover{
     transform: scale(1.2);
-    border: solid blue;
+    border: solid white;
 }
 .footer {
     grid-area: footer;
