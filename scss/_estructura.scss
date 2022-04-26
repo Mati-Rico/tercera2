@@ -1,0 +1,22 @@
+body {
+    .gridindex{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 50px 550px 20px;
+        gap: 0px 0px;
+        grid-auto-flow: row;
+        grid-template-areas:
+        "TN Nav Nav"
+        "Main Main Main"
+        "footer footer footer";
+        .TN{
+                grid-area: TN; 
+                display: flex;
+                justify-content: left;
+                align-items: center;
+                color: white;
+                font-family: 'Permanent Marker', cursive;
+            }
+    }
+
+}

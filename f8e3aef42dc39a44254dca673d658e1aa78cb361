@@ -1,0 +1,23 @@
+[33mcommit f8e3aef42dc39a44254dca673d658e1aa78cb361[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Matias Rico <matiasrico28@gmail.com>
+Date:   Tue Apr 26 19:10:48 2022 -0300
+
+    agregando sass a index
+
+[33mcommit e4340b87f5e948fee9178337a4f1a1bfe1722430[m
+Author: Matias Rico <matiasrico28@gmail.com>
+Date:   Sat Apr 16 15:38:42 2022 -0300
+
+    Se comienza a maquetear segunda entrega modificando formularios STN y contacto con bootstrap
+
+[33mcommit 6eacd85d62719f615b635745564091052d9d3a24[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mtransform[m[33m)[m
+Author: Matias Rico <matiasrico28@gmail.com>
+Date:   Tue Apr 12 21:20:13 2022 -0300
+
+    se agrega borde blanco con transform al nav
+
+[33mcommit 2be5fe6bd60b248f0abe14dc8d26a973cfa68b2e[m
+Author: Matias Rico <matiasrico28@gmail.com>
+Date:   Tue Apr 12 21:12:03 2022 -0300
+
+    Mi primer commit
